@@ -1,14 +1,14 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Старый городок","order":1,"parentId":0,"scrollX":368.72727272727275,"scrollY":489.2727272727273},
+{"id":1,"expanded":false,"name":"Старый городок","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
 {"id":2,"expanded":false,"name":"Двор школы","order":2,"parentId":1,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
 {"id":3,"expanded":false,"name":"Кабинет","order":3,"parentId":2,"scrollX":648.6666666666666,"scrollY":658},
 {"id":4,"expanded":false,"name":"Туалет","order":4,"parentId":2,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":5,"expanded":true,"name":"Стартовая локация.","order":6,"parentId":6,"scrollX":884.7272727272727,"scrollY":517.0909090909091},
-{"id":6,"expanded":true,"name":"Мир","order":5,"parentId":0,"scrollX":986.1818181818182,"scrollY":5124.545454545455},
-{"id":7,"expanded":false,"name":"Церковь.","order":8,"parentId":8,"scrollX":1128,"scrollY":624.5454545454546},
-{"id":8,"expanded":true,"name":"Деревня 1","order":7,"parentId":6,"scrollX":1035.2727272727273,"scrollY":624.5454545454546},
+{"id":5,"expanded":true,"name":"Стартовая локация.","order":6,"parentId":6,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":6,"expanded":true,"name":"Мир","order":5,"parentId":0,"scrollX":986.1818181818182,"scrollY":5125.090909090909},
+{"id":7,"expanded":false,"name":"Церковь.","order":8,"parentId":8,"scrollX":884.7272727272727,"scrollY":625.0909090909091},
+{"id":8,"expanded":true,"name":"Деревня 1","order":7,"parentId":6,"scrollX":1035.2727272727273,"scrollY":625.0909090909091},
 {"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":7,"scrollX":893.4545454545455,"scrollY":442.90909090909093},
-{"id":10,"expanded":false,"name":"Лавовая пещера","order":10,"parentId":6,"scrollX":1346.1818181818182,"scrollY":624.5454545454546},
-{"id":11,"expanded":false,"name":"Рыбацкая деревня","order":11,"parentId":6,"scrollX":884.7272727272727,"scrollY":1425.818181818182}
+{"id":10,"expanded":false,"name":"Лавовая пещера","order":10,"parentId":6,"scrollX":1346.1818181818182,"scrollY":625.0909090909091},
+{"id":11,"expanded":false,"name":"Рыбацкая деревня","order":11,"parentId":6,"scrollX":1035.2727272727273,"scrollY":625.0909090909091}
 ]
