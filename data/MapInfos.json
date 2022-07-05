@@ -4,11 +4,11 @@ null,
 {"id":2,"expanded":false,"name":"Двор школы","order":2,"parentId":1,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
 {"id":3,"expanded":false,"name":"Кабинет","order":3,"parentId":2,"scrollX":648.6666666666666,"scrollY":658},
 {"id":4,"expanded":false,"name":"Туалет","order":4,"parentId":2,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":5,"expanded":true,"name":"Стартовая локация.","order":6,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":true,"name":"Мир","order":5,"parentId":0,"scrollX":986,"scrollY":5366},
+{"id":5,"expanded":true,"name":"Стартовая локация.","order":6,"parentId":6,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":6,"expanded":true,"name":"Мир","order":5,"parentId":0,"scrollX":986.1818181818182,"scrollY":5366.181818181818},
 {"id":7,"expanded":false,"name":"Церковь.","order":8,"parentId":8,"scrollX":816,"scrollY":800},
-{"id":8,"expanded":true,"name":"Деревня 1","order":7,"parentId":6,"scrollX":1036,"scrollY":626},
+{"id":8,"expanded":true,"name":"Деревня 1","order":7,"parentId":6,"scrollX":1035.2727272727273,"scrollY":495.2727272727273},
 {"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":7,"scrollX":893.4545454545455,"scrollY":442.90909090909093},
 {"id":10,"expanded":false,"name":"Лавовая пещера","order":10,"parentId":6,"scrollX":1003.6363636363636,"scrollY":494.1818181818182},
-{"id":11,"expanded":false,"name":"Рыбацкая деревня","order":11,"parentId":6,"scrollX":1003.6363636363636,"scrollY":1425.818181818182}
+{"id":11,"expanded":false,"name":"Рыбацкая деревня","order":11,"parentId":6,"scrollX":986.1818181818182,"scrollY":1425.818181818182}
 ]
