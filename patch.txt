@@ -1,0 +1,8 @@
+Version 0.0.1 
+Locations - 8
+Version 0.0.2
+Locations -
+Added -
+Settings Menu
+Quest book
+Improved the interface of items, hero, etc.
