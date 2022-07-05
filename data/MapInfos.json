@@ -9,6 +9,6 @@ null,
 {"id":7,"expanded":false,"name":"Церковь.","order":8,"parentId":8,"scrollX":884.7272727272727,"scrollY":675.2727272727273},
 {"id":8,"expanded":true,"name":"Деревня 1","order":7,"parentId":6,"scrollX":1035.2727272727273,"scrollY":625.0909090909091},
 {"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":7,"scrollX":893.4545454545455,"scrollY":442.90909090909093},
-{"id":10,"expanded":false,"name":"Лавовая пещера","order":10,"parentId":6,"scrollX":1003.6363636363636,"scrollY":1905.818181818182},
-{"id":11,"expanded":false,"name":"Рыбацкая деревня","order":11,"parentId":6,"scrollX":1035.2727272727273,"scrollY":625.0909090909091}
+{"id":10,"expanded":false,"name":"Лавовая пещера","order":10,"parentId":6,"scrollX":1003.6363636363636,"scrollY":494.1818181818182},
+{"id":11,"expanded":false,"name":"Рыбацкая деревня","order":11,"parentId":6,"scrollX":1003.6363636363636,"scrollY":1425.818181818182}
 ]
