@@ -6,3 +6,5 @@ Added -
 Settings Menu
 Quest book
 Improved the interface of items, hero, etc.
+Version 0.0.2.1
+Fixed bug with cant playing on smartphone.
